@@ -1,0 +1,22 @@
+# Build folders
+bin/
+obj/
+
+# Node.js
+node_modules/
+
+# Visual Studio
+.vs/
+
+# Environment variables
+.env
+
+# VS Code settings (optional)
+.vscode/
+
+# Log files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
