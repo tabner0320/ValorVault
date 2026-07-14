@@ -1,8 +1,8 @@
-# Veteran Resource Hub
+# Valor Vault
 
 ## Overview
 
-Veteran Resource Hub is a full-stack web application designed to help military veterans organize and manage important information in one secure location.
+Valor Vault is a full-stack web application designed to help military veterans organize and manage important information in one secure location.
 
 ## Planned Features
 
